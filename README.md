@@ -1,16 +1,10 @@
 <p align="center">
 
-  <h2 align="center">LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot
-Control in Cluttered Environments with High-Dimensional Inputs</h2>
-  <p align="center">
-    <a href="https://github.com/jeffchen888"><strong>Jeffrey Chen</strong>
-    ·
-    <a href="https://engineering.virginia.edu/faculty/rohan-chandra"><strong>Rohan Chandra</strong>
-    ·    
-</p>
+  <h2 align="center">LivePoint: Vision-Based, Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Social Mini-Games via Depth Sensor Input</h2>
+
 
 <p align="center">
-    University of Virginia
+    For MRS 2025 Submission
 </p>
    <h3 align="center">
 
